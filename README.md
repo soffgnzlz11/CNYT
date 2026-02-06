@@ -1,2 +1,18 @@
-# CNYT
-Repositorio de la materia Ciencias Naturales y Tecnología. Contiene trabajos y ejercicios sobre lo visto de computación cuántica a lo largo del semestre, incluyendo números complejos y conceptos básicos de computación cuántica.
+# Ciencias Naturales y Tecnología - CNYT
+
+Este repositorio contiene los trabajos y actividades de la materia **Ciencias Naturales y Tecnología**.
+
+## Temas vistos
+- Números complejos
+- Librería de computación cuántica
+- Conceptos básicos de computación cuántica
+- Ejercicios prácticos
+
+## Objetivo
+Guardar y organizar todos los trabajos realizados durante la cursada.
+
+## Autor
+Sara Sofia Gonzalez  Mora
+
+## Año
+2026
